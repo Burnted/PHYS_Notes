@@ -1,7 +1,7 @@
-# Physics 234: Computational Physics - Notebook Summaries
+# Physics: Computational Physics - Notebook Summaries
 
 ## Overview
-This document provides comprehensive summaries of the Physics 234 notebooks, detailing key concepts, important functions, and practical usage examples.
+This document provides comprehensive summaries of the Physics notebooks, detailing key concepts, important functions, and practical usage examples.
 
 ---
 

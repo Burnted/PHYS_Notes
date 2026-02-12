@@ -1,4 +1,4 @@
-# Physics 234: Quick Reference Guide
+# Physics: Quick Reference Guide
 
 ## Essential Functions at a Glance
 
